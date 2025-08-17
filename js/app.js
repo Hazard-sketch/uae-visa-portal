@@ -1,11 +1,12 @@
 // Initialize Firebase
 const firebaseConfig = {
-    apiKey: "YOUR_API_KEY",
-    authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-    projectId: "YOUR_PROJECT_ID",
-    storageBucket: "YOUR_PROJECT_ID.appspot.com",
-    messagingSenderId: "YOUR_SENDER_ID",
-    appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyBJ4NT0v2oimLohr7ILdyzARTZtcfO2abI",
+  authDomain: "uae-visa-portal.firebaseapp.com",
+  projectId: "uae-visa-portal",
+  storageBucket: "uae-visa-portal.firebasestorage.app",
+  messagingSenderId: "418736862504",
+  appId: "1:418736862504:web:dc6097da7b9c92b2cfcc1d",
+  measurementId: "G-WQF9M9PX24"
 };
 
 firebase.initializeApp(firebaseConfig);
